@@ -16,7 +16,7 @@ import java.util.List;
 import java.util.Random;
 
 public class TablutBoardState extends BoardState {
-//333
+
     /* Useful constants. */
     public static final int ILLEGAL = -1;
     public static final int SWEDE = 1;
